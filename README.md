@@ -24,8 +24,6 @@ To use the KMeans algorithm, follow these steps:
 
 Example usage:
 ```python
-from kmeans import KMeans
-import numpy as np
 
 # Generate sample data
 data = np.random.rand(100, 2)
